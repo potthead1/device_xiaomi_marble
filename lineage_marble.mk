@@ -38,3 +38,6 @@ BUILD_GOOGLE_MESSAGE := true
 
 # Nuke AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
+
+# Nuke Auxio
+TARGET_EXCLUDES_AUXIO := true
