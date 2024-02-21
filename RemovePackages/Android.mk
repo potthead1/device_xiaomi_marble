@@ -8,8 +8,8 @@ LOCAL_OVERRIDES_PACKAGES := \
     Chrome \
     Chrome-Stub \
     Drive \
+    Eleven \
     Maps \
-    MatLog \
     Photos \
     PrebuiltGmail \
     RecorderPrebuilt \
